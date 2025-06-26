@@ -57,4 +57,6 @@ This guide is designed solely for educational purposes. The information given is
 
 
 
-Update: Email links
+
+
+Update: Fixed navigation menu link errors
