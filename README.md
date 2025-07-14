@@ -63,4 +63,6 @@ This guide is designed solely for educational purposes. The information given is
 
 
 
-Update:  Monday 07 July 2025 Fixed unreachable link
+
+
+Update: Icon references
