@@ -65,4 +65,6 @@ This guide is designed solely for educational purposes. The information given is
 
 
 
-Update: Icon references
+
+
+Update:  07/18/2025 Thumbnail URLs
