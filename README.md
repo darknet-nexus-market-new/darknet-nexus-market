@@ -67,4 +67,6 @@ This guide is designed solely for educational purposes. The information given is
 
 
 
-Update:  07/18/2025 Thumbnail URLs
+
+
+Update:  21.07.2025 External URLs
